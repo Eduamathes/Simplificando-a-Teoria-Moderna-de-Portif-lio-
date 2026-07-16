@@ -238,17 +238,17 @@ O principio fundamental é que o investidor deve buscar o **maior retorno possí
 
 ## Os 4 conceitos essenciais
 
-**1. Binomio Risco-Retorno**
-Retorno maior exige aceitar risco maior. Não existe almoço gratis no mercado financeiro. O risco e medido pelo desvio padrao (volatilidade) dos retornos.
+**1. Binômio Risco-Retorno**
+Retorno maior exige aceitar risco maior. Não existe almoço grátis no mercado financeiro. O risco é medido pelo desvio padrão (volatilidade) dos retornos.
 
-**2. Diversificacao correta**
-Nao basta ter muitos ativos. E preciso ter ativos de **diferentes naturezas e setores** que nao se movam juntos (baixa correlacao). Quando um cai, o outro pode subir, equilibrando a carteira.
+**2. Diversificação correta**
+Não basta ter muitos ativos. É preciso ter ativos de **diferentes naturezas e setores** que não se movam juntos (baixa correlação). Quando um cai, o outro pode subir, equilibrando a carteira.
 
-**3. Correlacao entre ativos**
-Esse e o segredo da MPT. Ativos com correlacao baixa ou negativa entre si reduzem o risco total da carteira sem sacrificar o retorno esperado. Exemplo: acoes brasileiras e renda fixa costumam ter correlacao baixa.
+**3. Correlação entre ativos**
+Esse é o segredo da MPT. Ativos com correlação baixa ou negativa entre si reduzem o risco total da carteira sem sacrificar o retorno esperado. Exemplo: ações brasileiras e renda fixa costumam ter correlação baixa.
 
 **4. Fronteira Eficiente**
-E o conjunto de carteiras "otimas" que entregam a melhor rentabilidade possivel para cada nivel de risco. Qualquer carteira abaixo dessa linha e ineficiente: poderia render mais com o mesmo risco.
+É o conjunto de carteiras "ótimas" que entregam a melhor rentabilidade possível para cada nível de risco. Qualquer carteira abaixo dessa linha é ineficiente: poderia render mais com o mesmo risco.
 
 ---
 
@@ -257,52 +257,52 @@ E o conjunto de carteiras "otimas" que entregam a melhor rentabilidade possivel 
 A MPT distingue dois perfis:
 
 - **Investidor insensato**: foca apenas no retorno esperado, ignora o risco, concentra tudo no ativo que "promete mais". Markowitz rejeita esse comportamento como especulativo.
-- **Investidor prudente**: enxerga a carteira como um todo equilibrado, diversifica entre setores e classes com baixa correlacao, e busca se posicionar na Fronteira Eficiente de acordo com sua tolerancia ao risco.
+- **Investidor prudente**: enxerga a carteira como um todo equilibrado, diversifica entre setores e classes com baixa correlação, e busca se posicionar na Fronteira Eficiente de acordo com sua tolerância ao risco.
 
 ---
 
-## Como aplicar na pratica (passo a passo para iniciantes)
+## Como aplicar na prática (passo a passo para iniciantes)
 
 **1. Defina seu perfil de risco**
-Conservador (prioriza estabilidade), moderado (busca equilibrio) ou arrojado (aceita volatilidade por mais retorno). Isso define onde voce se posiciona na Fronteira Eficiente.
+Conservador (prioriza estabilidade), moderado (busca equilíbrio) ou arrojado (aceita volatilidade por mais retorno). Isso define onde você se posiciona na Fronteira Eficiente.
 
-**2. Nao escolha ativos isoladamente**
-Em vez de perguntar "qual acao rendeu mais?", pergunte "como esse ativo se comporta em relacao aos outros da minha carteira?".
+**2. Não escolha ativos isoladamente**
+Em vez de perguntar "qual ação rendeu mais?", pergunte "como esse ativo se comporta em relação aos outros da minha carteira?".
 
 **3. Combine classes de ativos distintas**
-Misture renda fixa (Tesouro Selic, CDBs, titulos atrelados a inflacao), renda variavel (acoes, FIIs, ETFs) e exposicao internacional. Cada classe reage de forma diferente as crises.
+Misture renda fixa (Tesouro Selic, CDBs, títulos atrelados à inflação), renda variável (ações, FIIs, ETFs) e exposição internacional. Cada classe reage de forma diferente às crises.
 
-**4. Atencao a correlacao setorial**
-Se todas as suas acoes forem do mesmo setor (bancos, por exemplo), uma crise no setor derruba a carteira inteira. Diversifique entre industrias com caracteristicas economicas diferentes.
+**4. Atenção à correlação setorial**
+Se todas as suas ações forem do mesmo setor (bancos, por exemplo), uma crise no setor derruba a carteira inteira. Diversifique entre indústrias com características econômicas diferentes.
 
 **5. Reequilibre periodicamente**
 Os pesos dos ativos mudam com o tempo. Rebalancear anualmente garante que a carteira continue dentro do seu perfil de risco.
 
 ---
 
-## Exemplo de alocacao pratica (perfil moderado, R$ 10.000)
+## Exemplo de alocação prática (perfil moderado, R$ 10.000)
 
-Aqui esta uma sugestao de carteira otimizada baseada nos principios da MPT:
+Aqui está uma sugestão de carteira otimizada baseada nos princípios da MPT:
 
-| Classe | % | Funcao na carteira |
+| Classe | % | Função na carteira |
 |--------|---|---|
-| Pos-fixado (Tesouro Selic / CDB) | 20% | Seguranca e liquidez para emergencias |
-| Inflacao + Pre-fixados (IPCA+) | 40% | Protecao do poder de compra no longo prazo |
-| Acoes Brasil (Ibovespa / ETFs) | 20% | Crescimento patrimonial |
-| Multimercados | 10% | Gestao ativa para reduzir correlacao |
-| Exterior (S&P 500 / Dolar) | 10% | Protecao cambial e diversificacao global |
+| Pós-fixado (Tesouro Selic / CDB) | 20% | Segurança e liquidez para emergências |
+| Inflação + Pré-fixados (IPCA+) | 40% | Proteção do poder de compra no longo prazo |
+| Ações Brasil (Ibovespa / ETFs) | 20% | Crescimento patrimonial |
+| Multimercados | 10% | Gestão ativa para reduzir correlação |
+| Exterior (S&P 500 / Dólar) | 10% | Proteção cambial e diversificação global |
 
-O segredo nao esta na quantidade de ativos, mas no **tipo certo de diversificacao**. Misturar naturezas economicas diferentes reduz o risco sem abrir mao do retorno.
+O segredo não está na quantidade de ativos, mas no **tipo certo de diversificação**. Misturar naturezas econômicas diferentes reduz o risco sem abrir mão do retorno.
 
 ---
 
-## Conclusao pratica
+## Conclusão prática
 
-A MPT de Markowitz troca a especulacao por uma estrutura protegida. O investidor iniciante nao precisa dominar formulas matematicas complexas para aplica-la: basta entender que uma carteira bem diversificada entre classes de baixa correlacao e mais importante do que acertar o "proximo ativo que vai subir". Invista com disciplina, mantenha aportes constantes e reequilibre anualmente.
+A MPT de Markowitz troca a especulação por uma estrutura protegida. O investidor iniciante não precisa dominar fórmulas matemáticas complexas para aplicá-la: basta entender que uma carteira bem diversificada entre classes de baixa correlação é mais importante do que acertar o "próximo ativo que vai subir". Invista com disciplina, mantenha aportes constantes e reequilibre anualmente.
 
+---
 
-
-## Glossário — Conceitos da MPT para Investidores Iniciantes
+## Glossário: Conceitos da MPT para Investidores Iniciantes
 
 | Termo | Explicação Simples |
 |---|---|
@@ -316,7 +316,7 @@ A MPT de Markowitz troca a especulacao por uma estrutura protegida. O investidor
 | **Correlação** | Mede como dois ativos se movem juntos. É o segredo da diversificação: quanto menor a correlação entre os ativos da sua carteira, mais você reduz o risco total sem necessariamente sacrificar o retorno. Se tudo cai junto, não há proteção. |
 | **Diversificação Correta** | Não é ter muitos ativos, mas ter ativos de setores e naturezas diferentes que não se movem juntos. Markowitz alerta: 60 ações do mesmo setor são menos diversificadas que poucas ações de setores distintos. |
 | **Fronteira Eficiente** | Conjunto de carteiras que oferecem a melhor rentabilidade possível para cada nível de risco. Qualquer carteira abaixo dessa linha é ineficiente, pois poderia render mais com o mesmo risco. |
-| **Portfolio Ótimo** | A carteira específica na fronteira eficiente que combina com o seu perfil. Se você é conservador, fica na parte de menor risco; se é arrojado, aceita mais volatilidade por mais retorno. |
+| **Portfólio Ótimo** | A carteira específica na fronteira eficiente que combina com o seu perfil. Se você é conservador, fica na parte de menor risco; se é arrojado, aceita mais volatilidade por mais retorno. |
 | **Peso do Ativo** | A porcentagem do seu dinheiro que vai para cada investimento. Os pesos somam 100%. Definir os pesos certos é o objetivo central da montagem da carteira. |
 | **Investidor Prudente** | Investidor racional que enxerga a carteira como um todo equilibrado, diversifica entre setores com baixa correlação e busca se posicionar na fronteira eficiente de acordo com sua tolerância ao risco. |
 | **Investidor Insensato** | Aquele que foca apenas no retorno esperado, ignora o risco e concentra tudo no ativo que promete render mais. Markowitz rejeita esse comportamento como especulativo e irracional. |
@@ -327,34 +327,32 @@ A MPT de Markowitz troca a especulacao por uma estrutura protegida. O investidor
 | **Perfil de Risco** | Seu nível de tolerância à volatilidade: conservador (prioriza estabilidade), moderado (busca equilíbrio) ou arrojado (aceita oscilar mais por retornos maiores). Define onde você se posiciona na fronteira eficiente. |
 | **Reequilíbrio** | Prática de ajustar os pesos da carteira periodicamente para mantê-la dentro do seu perfil de risco. Com o tempo, alguns ativos crescem mais que outros e desequilibram a alocação original. |
 
+---
 
 ## Conjunto de prompts reutilizáveis
 
 ### Prompt 1: Resumo Didático em Três Blocos
-
 > Aja como um professor de finanças didático. Com base nas fontes deste caderno, explique a Moderna Teoria do Portfólio (MPT) de Harry Markowitz em três blocos: (i) o problema que ela resolve, (ii) os conceitos de risco, retorno e correlação, e (iii) como um investidor iniciante pode aplicá-la. Em cada bloco, use uma analogia do dia a dia antes da explicação técnica. Ao final, liste 5 palavras-chave que eu devo memorizar.
 
 ---
 
 ### Prompt 2: Quiz de Fixação com 10 Questões
-
 > Com base nas fontes deste caderno, crie um quiz de 10 questões de múltipla escolha sobre a MPT, cobrindo: diversificação, fronteira eficiente, correlação, perfil de risco, investidor prudente vs. insensato e as duas etapas da seleção de carteira. Indique a resposta correta de cada questão com uma justificativa de no máximo duas linhas extraída das fontes.
 
 ---
 
 ### Prompt 3: Comparação Prudente vs. Insensato em Tabela
-
 > Compare e contraste os conceitos de "investidor prudente" e "investidor insensato" segundo Markowitz, usando uma tabela de duas colunas. Para cada critério de comparação (objetivo, atitude em relação ao risco, estratégia de alocação, resultado esperado e comportamento diante de crises), apresente o que cada perfil faz e por que a MPT aprova ou rejeita essa conduta. Cite as fontes usadas.
 
 ---
 
 ### Prompt 4: Estudo de Caso Prático com R$ 10.000
-
 > Com base nas fontes, simule um estudo de caso prático: um investidor iniciante com R$ 10.000,00 e perfil moderado quer montar uma carteira seguindo a MPT. Descreva passo a passo: (i) como definir a alocação entre classes de ativos, (ii) quais classes escolher e porcentagens, (iii) qual o papel de cada classe na redução de risco via correlação, e (iv) como e quando reequilibrar a carteira. Justifique cada decisão com os princípios da MPT.
 
 ---
 
 ### Prompt 5: Mapa Mental Textual e Teste de Retenção
+> Aja como um revisor de estudos. Com base nas fontes deste caderno, gere um resumo estruturado em mapa mental textual com os tópicos: fundamentos da MPT, binômio risco-retorno, diversificação e correlação, fronteira eficiente, perfis de investidor e aplicação prática. Para cada tópico, liste de 3 a 5 pontos essenciais em uma frase cada. Ao final, sugira 3 perguntas que eu deveria ser capaz de responder sem consultar o material, como teste de retenção.
 
 > Aja como um revisor de estudos. Com base nas fontes deste caderno, gere um resumo estruturado em mapa mental textual com os tópicos: fundamentos da MPT, binômio risco-retorno, diversificação e correlação, fronteira eficiente, perfis de investidor e aplicação prática. Para cada tópico, liste de 3 a 5 pontos essenciais em uma frase cada. Ao final, sugira 3 perguntas que eu deveria ser capaz de responder sem consultar o material, como teste de retenção.
 
